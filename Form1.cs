@@ -16,6 +16,5 @@ namespace Chat_ApplicationLearning1
         {
             InitializeComponent();
         }
-
     }
 }

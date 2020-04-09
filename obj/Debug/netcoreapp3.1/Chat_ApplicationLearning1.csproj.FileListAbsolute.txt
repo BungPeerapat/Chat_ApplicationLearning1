@@ -1,0 +1,13 @@
+C:\Users\BungK\source\repos\Chat_ApplicationLearning1\Chat_ApplicationLearning1\bin\Debug\netcoreapp3.1\Chat_ApplicationLearning1.exe
+C:\Users\BungK\source\repos\Chat_ApplicationLearning1\Chat_ApplicationLearning1\bin\Debug\netcoreapp3.1\Chat_ApplicationLearning1.deps.json
+C:\Users\BungK\source\repos\Chat_ApplicationLearning1\Chat_ApplicationLearning1\bin\Debug\netcoreapp3.1\Chat_ApplicationLearning1.runtimeconfig.json
+C:\Users\BungK\source\repos\Chat_ApplicationLearning1\Chat_ApplicationLearning1\bin\Debug\netcoreapp3.1\Chat_ApplicationLearning1.runtimeconfig.dev.json
+C:\Users\BungK\source\repos\Chat_ApplicationLearning1\Chat_ApplicationLearning1\bin\Debug\netcoreapp3.1\Chat_ApplicationLearning1.dll
+C:\Users\BungK\source\repos\Chat_ApplicationLearning1\Chat_ApplicationLearning1\bin\Debug\netcoreapp3.1\Chat_ApplicationLearning1.pdb
+C:\Users\BungK\source\repos\Chat_ApplicationLearning1\Chat_ApplicationLearning1\obj\Debug\netcoreapp3.1\Chat_ApplicationLearning1.csprojAssemblyReference.cache
+C:\Users\BungK\source\repos\Chat_ApplicationLearning1\Chat_ApplicationLearning1\obj\Debug\netcoreapp3.1\Chat_ApplicationLearning1.csproj.CoreCompileInputs.cache
+C:\Users\BungK\source\repos\Chat_ApplicationLearning1\Chat_ApplicationLearning1\obj\Debug\netcoreapp3.1\Chat_ApplicationLearning1.AssemblyInfoInputs.cache
+C:\Users\BungK\source\repos\Chat_ApplicationLearning1\Chat_ApplicationLearning1\obj\Debug\netcoreapp3.1\Chat_ApplicationLearning1.AssemblyInfo.cs
+C:\Users\BungK\source\repos\Chat_ApplicationLearning1\Chat_ApplicationLearning1\obj\Debug\netcoreapp3.1\Chat_ApplicationLearning1.dll
+C:\Users\BungK\source\repos\Chat_ApplicationLearning1\Chat_ApplicationLearning1\obj\Debug\netcoreapp3.1\Chat_ApplicationLearning1.pdb
+C:\Users\BungK\source\repos\Chat_ApplicationLearning1\Chat_ApplicationLearning1\obj\Debug\netcoreapp3.1\Chat_ApplicationLearning1.genruntimeconfig.cache
